@@ -1,0 +1,18 @@
+{
+    "name": "socketio-chat-example",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "zamora322",
+    "description": "socket.io websocket",
+    "contributors": [],
+    "dependencies": {
+        "express": "^4.18.1",
+        "socket.io": "^4.5.2"
+    }
+}
